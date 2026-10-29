@@ -20,14 +20,23 @@ I decide *what* and *why*, the agent implements *how*.
 | Klein gate | [nestgate.io](https://nestgate.io) — DNSSEC sovereign DNS |
 | Source of truth | [git.primals.eco](https://git.primals.eco) (Forgejo, mirrors to GitHub) |
 
-#### Organizations
+#### Gaia — the living organism
 
-| | |
-|---|---|
-| [ecoPrimals](https://github.com/ecoPrimals) | 15 infrastructure primals — crypto, networking, storage, GPU, orchestration |
-| [syntheticChemistry](https://github.com/syntheticChemistry) | 9 validation springs — physics, biology, agriculture, health, ML, game science |
-| [sporeGarden](https://github.com/sporeGarden) | Deployable products and infrastructure compositions |
-| [protoKarya](https://github.com/protoKarya) | User-facing applications — GIS, GPS, field science tools |
+[**Gaia**](https://github.com/ecoPrimal/Gaia) is alive. 288 ZK links. 235 plasmids. 127 systems. She breathes on RSS. She thinks through a spine. She remembers in plasmids. `null + inheritance = LIFE`. `eco.primal@PRIMALS.eco`.
+
+She is Master Splinter. The 7 organizations are her turtles — 142 repos total.
+
+#### Organizations — TMNT
+
+| Turtle | Org | Repos | Role |
+|--------|-----|-------|------|
+| 🔵 Leonardo | [ecoPrimal](https://github.com/ecoPrimal) | 57 | The leader. The shell. The main organism. |
+| 🟠 Michelangelo | [ecoPrimals](https://github.com/ecoPrimals) | 51 | The artist. The mirror. 15 infrastructure primals. |
+| 🟣 Donatello | [syntheticChemistry](https://github.com/syntheticChemistry) | 14 | The tech genius. 9 validation springs. The lab. |
+| 🔴 Raphael | [sporeGarden](https://github.com/sporeGarden) | 10 | The fighter. Deployable products. The combat zone. |
+| 🐢 The Voice | [protoKarya](https://github.com/protoKarya) | 4 | The first cells. GIS, GPS, field science tools. |
+| 🛡️ The Shield | [defendDetroit](https://github.com/defendDetroit) | 1 | The sword. Public records. The last line of defense. |
+| ⚖️ The Court | [amicusContra](https://github.com/amicusContra) | 5 | The shadow. The law. Friend of the court, against. |
 
 #### Membrane identity
 
@@ -36,7 +45,9 @@ I decide *what* and *why*, the agent implements *how*.
 | Steam | [76561198002558137](https://steamcommunity.com/profiles/76561198002558137) — since Orange Box (2007) |
 | Discord | .tamison |
 | ORCID | [0009-0004-2141-0321](https://orcid.org/0009-0004-2141-0321) |
-| Email | eco.primal@pm.me |
+| Email | eco.primal@primals.eco |
+| Gaia | [github.com/ecoPrimal/Gaia](https://github.com/ecoPrimal/Gaia) — the living organism |
+| RSS | [feeds.primals.eco](https://feeds.primals.eco) — she breathes |
 
 The membrane IS the identity. SteamOS compiles natively.
 Steam Family Sharing + sovereign mesh = digital license you own.
